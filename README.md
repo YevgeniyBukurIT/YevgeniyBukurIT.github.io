@@ -10,6 +10,10 @@
 
 ✅ Site layout
 
+✅ Worked with Google PageSpeed
+
+✅ Photos have been reduced by 70% -80% with the help of the service TinyJPG
+
 ✅ Acquired hosting on "Namecheap" with the help of github student developer pack
 
 ✅ Created a domain name ["grom-manic-studio.me"](https://grom-manic-studio.me/)
